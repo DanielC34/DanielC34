@@ -41,6 +41,15 @@
   <a href="https://www.tailwindcss.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
   </a>  
+  <a href="https://vitest.dev/" target="_blank">
+    <img style="margin: 10px" src="https://vitest.dev/logo.svg" alt="Vitest" height="50" />
+  </a>
+  <a href="https://zod.dev/" target="_blank">
+    <img style="margin: 10px" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" height="50" />
+  </a>
+  <a href="https://react-hook-form.com/" target="_blank">
+    <img style="margin: 10px" src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/www/static/images/logo.svg" alt="React Hook Form" height="50" />
+  </a>
 </div>
 
 ### Backend  
@@ -94,9 +103,6 @@
 </div>  
 
 <br/>
-
-## Recent Blog Posts 📝
-<!-- You can add links to your recent blog posts here. -->
 
 <br/>
 
