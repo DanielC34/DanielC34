@@ -50,9 +50,6 @@
   <a href="https://zod.dev/" target="_blank">
     <img style="margin: 10px" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" height="50" />
   </a>
-  <a href="https://react-hook-form.com/" target="_blank">
-    <img style="margin: 10px" src="https://react-hook-form.com/images/logo.png" alt="React Hook Form" height="50" />
-  </a>
 </div>
 
 ### Backend  
