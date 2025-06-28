@@ -7,8 +7,8 @@
 ### About Me:  
 - 🎓 Recent Computer Science graduate with a passion for frontend development.  
 - 💻 Experienced in building dynamic and user-centric web applications.  
-- 🚀 Proficient with the MERN stack, React.js, and TailwindCSS.  
-- 📚 Currently learning TypeScript and exploring Next.js.
+- 🚀 Proficient with the MERN stack, React.js, TypeScript and TailwindCSS.  
+- 📚 Currently learning C# and .NET.
 - 📧 Contact me: [danielchanda41@gmail.com](mailto:danielchanda41@gmail.com) 
 
 <br/>
