@@ -2,7 +2,7 @@
 # 💫 About Me:
 👋 Hi there!! I'm **Daniel**, a software engineer passionate about building clean, functional, and user-centric web applications.  
 
-💻 Experienced in building dynamic, user-centric web applications.  <br>🚀 Proficient with the MERN stack, React.js, TypeScript, and Tailwind CSS.  <br>📚 Currently expanding my skills with C# and .NET.  <br>📧 Feel free to reach out: danielchanda41@gmail.com<br>
+💻 Experienced in building dynamic, user-centric web applications.  <br>🚀 Proficient with the MERN stack, Next.js, SQL, TypeScript, and Tailwind CSS.  <br>📚 Currently expanding my skills with C# and .NET.  <br>📧 Feel free to reach out: danielchanda41@gmail.com<br>
 
 
 ## 🌐 Socials:
